@@ -209,3 +209,59 @@
 ## testing
 
 ## just learned how to push to github :D
+
+
+#9-03-2022 - Having fun again
+
+#food=["pizza","cookie","sushi","hamburger","oreo","your mom"]
+
+#food.append("ice cream")
+#food.remove("hamburger")
+#food.sort()
+#food.pop()
+#food.insert(0,"cake")
+#food.reverse()
+#for x in food:
+#    print(x)
+#first_name = "Francois"
+#last_name = "Messely"
+#full_name = first_name +" "+last_name
+#age = 28
+
+#def hello(full_name,age):
+ #   print("Hello "+full_name)
+ #   print("Ton Prénom est: "+first_name)
+ #   print("Ton nom de famille est: "+last_name)
+ #   print("Tu as: "+str(age)+" ans")
+
+#hello(full_name,age)
+
+#
+
+#return statement
+
+#def multiply(number1,number2):
+#        return number1 * number2
+
+#x = multiply (6,8)
+
+#print(x)
+
+
+# #####Keywords arguments########
+
+#first = "Francois"
+#middle = "messely"
+#last = "le grand"
+
+#def hello(first,middle,last):
+  #  print("Hello "+first+" "+middle+" "+last)
+
+#hello(last=last,middle=middle,first=first)
+
+# positional arguments
+#def hello(first,midle,last):
+   # print("Hello "+first+" "+midle+" "+last)
+
+#hello("Francois","messely","le grand")
+
